@@ -26,14 +26,14 @@
 - ----- GAME OVER -----
 - Good Bye
 
-###Description:
+### Description:
 Create a 2-Player math game where players take turns to answer simple 
 math addition problems. A new math question is generated for each turn 
 by picking two numbers between 1 and 20. The player whose turn it is 
 is prompted the question and must answer correctly or lose a life.
 
 
-###Tips:
+### Tips:
 - Create a new project folder and track it using git; publish it to GitHub
 - This project will contain multiple classes. Each class should be defined in its 
   own rb file. You should not put any other code outside the class definition
